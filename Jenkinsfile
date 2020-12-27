@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('Stage 1') {
             steps {
-                echo 'Hello world, this is pipeline using Blue Ocean"' 
+                echo 'Hello world, this is pipeline scm"' 
             }
         }
     }
